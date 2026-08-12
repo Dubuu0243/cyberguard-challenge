@@ -1,0 +1,8 @@
+{
+  "name": "cyberguard-challenge",
+  "version": "1.0.0",
+  "description": "CyberGuard Ghana Security Challenge - Interactive scam detection quiz with certificate",
+  "scripts": {
+    "start": "echo 'Static hosting - no build needed'"
+  }
+}
